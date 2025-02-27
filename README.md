@@ -19,6 +19,11 @@
 
   ## 🛠️ Mis Habilidades
 -------------------
+### Diseño y Desarrollo Electrónico:
+&emsp;
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+![ESP](https://img.shields.io/badge/-ESPHome-000?&logo=ESPHome)
+
 ### Lenguajes de Programación:
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
