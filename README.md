@@ -17,3 +17,40 @@
 - No dudes en contactarme en [LinkedIn](https://www.linkedin.com/in/daniel-camilo-amaya-rodriguez/) 🏆.
 <br>
 
+  ## 🛠️ Mis Habilidades
+-------------------
+### Lenguajes de Programación:
+&emsp;
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C++](https://img.shields.io/badge/-C++-000?logo=C%2B%2B)
+
+### Desarrollo de frontend:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?logo=React)
+![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
+
+### Desarrollo de backend:
+&emsp;
+![Express](https://img.shields.io/badge/-Express-000?logo=Express)
+
+### Herramientas varias:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?logo=GitLab)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
+
+### Servicios & Frameworks: 
+&emsp;
+![Auth0](https://img.shields.io/badge/-Auth0-000?logo=Auth0)
+![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
+![Astro](https://img.shields.io/badge/-Astro-000?logo=Astro)
+
+### Databases:
+&emsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
