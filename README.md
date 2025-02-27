@@ -8,11 +8,12 @@
 <br>
 
 
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :nerd_face: Always `learning new things`.
-- 💬 Ask me about anything, I love to answer!
-- :thinking: I’m currently open for a new `job opportunity`.
-- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nitin-dahiya/) 🏆.
+-👨‍💻 Soy Ingeniero Electrónico 
+- 🌱 Actualmente estoy explorando Blockchain con un gran interés en los contratos inteligentes.
+- :technologist: Me encanta usar el software como solución para cada “problema”.
+- :nerd_face: Siempre "aprendiendo cosas nuevas".
+- 💬 Pregúntame cualquier cosa, ¡me encanta responder!
+- :thinking: Actualmente estoy abierto a una nueva “oportunidad laboral”.
+- No dudes en contactarme en [LinkedIn](https://www.linkedin.com/in/daniel-camilo-amaya-rodriguez/) 🏆.
 <br>
 
