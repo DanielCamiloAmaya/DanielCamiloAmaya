@@ -8,7 +8,7 @@
 <br>
 
 
--👨‍💻 Soy Ingeniero Electrónico 
+- 👨‍💻 Soy Ingeniero Electrónico 
 - 🌱 Actualmente estoy explorando Blockchain con un gran interés en los contratos inteligentes.
 - :technologist: Me encanta usar el software como solución para cada “problema”.
 - :nerd_face: Siempre "aprendiendo cosas nuevas".
